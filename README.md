@@ -67,7 +67,7 @@
 
   <img
   src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/fullscreenidetext.png"
-  style="display: block;" height="auto" width="auto"/>
+  style="display: block;" height="Congratulations" width="auto"/>
 
   <br>
 
@@ -226,7 +226,7 @@
   src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/ls-terminal.png"
   style="display: block"/>
 
-  <br> <br>
+
 
   <code>ls</code> stands for list and it will list all the files in the
   directory, similar to the file tree. After you press enter you will see output
